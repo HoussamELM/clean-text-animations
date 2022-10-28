@@ -6,3 +6,5 @@
 <p align="center">
   <img src="https://cdn.imgchest.com/files/myd5clkqp4b.gif">
 </p>
+
+<h5 align="center">gif preview doesn't look as good as the real thing!</h5>
